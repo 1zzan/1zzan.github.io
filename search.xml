@@ -4,26 +4,25 @@
   
     
     <entry>
-      <title>NewTestr</title>
-      <link href="/2024/07/12/NewTestr/"/>
-      <url>/2024/07/12/NewTestr/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test</title>
+      <title>杂记-1</title>
       <link href="/2024/07/12/test/"/>
       <url>/2024/07/12/test/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1><p>这是一个测试的文档，主要是让自己习惯用hexo命令来部署博客，之前用的webstorm太笨重了，在学习各种知识的时候都会莫名其妙选中最麻烦的那一条道路，可能是缺乏相关知识和思考</p>]]></content>
       
       
+      <categories>
+          
+          <category> 杂记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂记 </tag>
+            
+        </tags>
       
     </entry>
     
